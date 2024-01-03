@@ -1,0 +1,6 @@
+docker_home_volume*/
+
+*.bin
+
+**/build/
+**/executionHistory/

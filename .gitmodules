@@ -1,0 +1,3 @@
+[submodule "submodules/android-studio-docker"]
+	path = submodules/android-studio-docker
+	url = git@github.com:DiSc21/android-studio-docker.git
